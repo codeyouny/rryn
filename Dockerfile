@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor zip unzip wget && \
-    wget -qO- https://github.com/codeyouny/xxn/main/nync.zip && \
+    wget -O nync.zip https://github.com/codeyouny/xxn/main/nync.zip && \
     unzip nync.zip && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
