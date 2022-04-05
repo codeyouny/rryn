@@ -2,7 +2,7 @@
 
 # configs
 AUUID=f9714c24-b0d0-11ec-b909-0242ac120002
-CADDYIndexPage=https://github.com/codeyouny/nncy/blob/main/Websi.zip
+CADDYIndexPage=https://github.com/codeyouny/nncy/blob/main/Websi2.zip
 CONFIGCADDY=https://raw.githubusercontent.com/codeyouny/rryn/main/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/codeyouny/rryn/main/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
